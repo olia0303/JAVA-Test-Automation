@@ -1,0 +1,47 @@
+{
+  "uid" : "c0b2e75bd547154f",
+  "name" : "Then I check changes after adapter",
+  "title" : "Then I check changes after adapter",
+  "time" : {
+    "start" : 1553973178113,
+    "stop" : 1553973178113,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "9b0965ab8f29dec3",
+    "name" : "Scenario: Test positive edit post",
+    "title" : "Scenario: test positive edit post"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "20040@LAPTOP-OSSTP811.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-OSSTP811"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test positive edit post"
+  } ],
+  "parameters" : [ ]
+}

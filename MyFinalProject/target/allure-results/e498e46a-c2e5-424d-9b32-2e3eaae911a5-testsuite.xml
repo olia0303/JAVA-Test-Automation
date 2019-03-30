@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1553973097383" stop="1553973178699" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Test extract letter to spam</name>
+    <test-cases>
+        <test-case start="1553973108261" stop="1553973108261" status="passed">
+            <name>Given I am on mail page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553973108261" stop="1553973108261" status="passed">
+            <name>Given I am on mail page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553973109110" stop="1553973109110" status="passed">
+            <name>When I open spam folder</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553973109980" stop="1553973109980" status="passed">
+            <name>When I extract the letter in spam</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553973110007" stop="1553973110007" status="passed">
+            <name>Then I see letter in spam</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

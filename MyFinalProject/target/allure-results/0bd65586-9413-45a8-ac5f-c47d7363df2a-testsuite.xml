@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1553972973452" stop="1553973178708" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Test positive login page</name>
+    <test-cases>
+        <test-case start="1553972981442" stop="1553972981445" status="passed">
+            <name>Given I am on main application page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553972981442" stop="1553972981445" status="passed">
+            <name>Given I am on main application page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553972981961" stop="1553972981961" status="passed">
+            <name>When I login as correct user</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553972987903" stop="1553972987903" status="passed">
+            <name>Then I see logout link</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

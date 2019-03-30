@@ -1,0 +1,47 @@
+{
+  "uid" : "a1eb3270e0189029",
+  "name" : "When I send message recipients",
+  "title" : "When I send message recipients",
+  "time" : {
+    "start" : 1553973132535,
+    "stop" : 1553973132535,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "2b50fc2793951e35",
+    "name" : "Scenario: Test send letter for group users",
+    "title" : "Scenario: test send letter for group users"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "20040@LAPTOP-OSSTP811.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test send letter for group users"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-OSSTP811"
+  } ],
+  "parameters" : [ ]
+}

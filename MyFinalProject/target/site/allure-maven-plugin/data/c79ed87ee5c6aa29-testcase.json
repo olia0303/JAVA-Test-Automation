@@ -1,0 +1,47 @@
+{
+  "uid" : "c79ed87ee5c6aa29",
+  "name" : "When I delete post from the wall",
+  "title" : "When I delete post from the wall",
+  "time" : {
+    "start" : 1553973178265,
+    "stop" : 1553973178266,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "c6ca90ea550c8507",
+    "name" : "Scenario: Test positive delete post",
+    "title" : "Scenario: test positive delete post"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "20040@LAPTOP-OSSTP811.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test positive delete post"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-OSSTP811"
+  } ],
+  "parameters" : [ ]
+}

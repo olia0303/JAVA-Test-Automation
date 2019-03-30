@@ -1,0 +1,47 @@
+{
+  "uid" : "c190d43ec1014ed9",
+  "name" : "Given I am on mail page",
+  "title" : "Given I am on mail page",
+  "time" : {
+    "start" : 1553973088959,
+    "stop" : 1553973088959,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "f12c72bc9e28763b",
+    "name" : "Scenario: Test move letter for spam",
+    "title" : "Scenario: test move letter for spam"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "20040@LAPTOP-OSSTP811.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-OSSTP811"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test move letter for spam"
+  } ],
+  "parameters" : [ ]
+}

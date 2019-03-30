@@ -1,0 +1,153 @@
+{
+  "hash" : "e7105c43ada45c9f6e0006854ef1a1d95249231d",
+  "plugins" : {
+    "total" : {
+      "statistic" : {
+        "total" : 45,
+        "passed" : 45,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "time" : {
+        "start" : 1553972981442,
+        "stop" : 1553973178266,
+        "duration" : 196824
+      }
+    },
+    "defects" : {
+      "totalCount" : 0,
+      "items" : [ ]
+    },
+    "xunit" : {
+      "totalCount" : 11,
+      "items" : [ {
+        "uid" : "d7a5ec9145537ded",
+        "title" : "Scenario: test extract letter to spam",
+        "statistic" : {
+          "total" : 5,
+          "passed" : 5,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "3d093ecb0431f1e3",
+        "title" : "Scenario: test mark letters with flags",
+        "statistic" : {
+          "total" : 4,
+          "passed" : 4,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "f12c72bc9e28763b",
+        "title" : "Scenario: test move letter for spam",
+        "statistic" : {
+          "total" : 4,
+          "passed" : 4,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "c6ca90ea550c8507",
+        "title" : "Scenario: test positive delete post",
+        "statistic" : {
+          "total" : 3,
+          "passed" : 3,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "9b0965ab8f29dec3",
+        "title" : "Scenario: test positive edit post",
+        "statistic" : {
+          "total" : 3,
+          "passed" : 3,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "b219e3bab50253cd",
+        "title" : "Scenario: test positive login page",
+        "statistic" : {
+          "total" : 4,
+          "passed" : 4,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "76a8bdce258f14d3",
+        "title" : "Scenario: test positive logout",
+        "statistic" : {
+          "total" : 6,
+          "passed" : 6,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "2b50fc2793951e35",
+        "title" : "Scenario: test send letter for group users",
+        "statistic" : {
+          "total" : 5,
+          "passed" : 5,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "2ad378cd180b6ad8",
+        "title" : "Scenario: test unchecked letters with flags",
+        "statistic" : {
+          "total" : 4,
+          "passed" : 4,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "aa0b9d1655e99d8",
+        "title" : "| X XX XX | 123345768 |",
+        "statistic" : {
+          "total" : 4,
+          "passed" : 4,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      } ]
+    },
+    "behaviors" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "title" : "Without feature",
+        "statistic" : {
+          "total" : 45,
+          "passed" : 45,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      } ]
+    },
+    "environment" : [ ]
+  }
+}

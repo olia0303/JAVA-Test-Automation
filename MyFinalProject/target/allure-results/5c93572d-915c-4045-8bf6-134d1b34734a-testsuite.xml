@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1553973076617" stop="1553973178725" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Test move letter for spam</name>
+    <test-cases>
+        <test-case start="1553973088959" stop="1553973088959" status="passed">
+            <name>Given I am on mail page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553973088959" stop="1553973088959" status="passed">
+            <name>Given I am on mail page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553973089890" stop="1553973089890" status="passed">
+            <name>When I move letter to spam</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553973089913" stop="1553973089913" status="passed">
+            <name>Then I see message "Letter moved to spam"</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

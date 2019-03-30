@@ -1,0 +1,47 @@
+{
+  "uid" : "d6ad9b522000a13c",
+  "name" : "When I mark three letters with flags",
+  "title" : "When I mark three letters with flags",
+  "time" : {
+    "start" : 1553973150688,
+    "stop" : 1553973150689,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "3d093ecb0431f1e3",
+    "name" : "Scenario: Test mark letters with flags",
+    "title" : "Scenario: test mark letters with flags"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "20040@LAPTOP-OSSTP811.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test mark letters with flags"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-OSSTP811"
+  } ],
+  "parameters" : [ ]
+}

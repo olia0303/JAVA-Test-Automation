@@ -1,0 +1,47 @@
+{
+  "uid" : "c83c0be0d14ea86a",
+  "name" : "Given I am on main application page",
+  "title" : "Given I am on main application page",
+  "time" : {
+    "start" : 1553973027373,
+    "stop" : 1553973027373,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "aa0b9d1655e99d8",
+    "name" : "| X XX XX | 123345768 |",
+    "title" : "| X XX XX | 123345768 |"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "20040@LAPTOP-OSSTP811.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "| X XX XX | 123345768 |"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-OSSTP811"
+  } ],
+  "parameters" : [ ]
+}

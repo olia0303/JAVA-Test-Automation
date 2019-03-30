@@ -1,0 +1,799 @@
+11:54:35,019  INFO main LoginSteps:afterClass:74 - testing page is over
+11:55:34,540  INFO main LoginSteps:afterClass:74 - testing page is over
+11:57:41,015  INFO main LoginSteps:afterClass:74 - testing page is over
+12:03:57,677  INFO main LoginSteps:afterClass:74 - testing page is over
+12:15:54,536  INFO main LoginSteps:afterClass:74 - testing page is over
+12:22:20,850  INFO main LoginSteps:afterClass:74 - testing page is over
+12:26:28,889  INFO main LoginSteps:afterClass:74 - testing page is over
+12:27:03,432  INFO main MailSteps:<init>:43 - open page https://mail.ru/ and correct login.
+12:27:05,644  INFO main MailSteps:afterClass:131 - testing page is over
+12:39:36,122  INFO main MailSteps:<init>:43 - open page https://mail.ru/ and correct login.
+12:39:36,167  INFO main MailSteps:loadMainPage:49 - I am on mail page
+12:39:45,699  INFO main LoginSteps:afterClass:74 - testing page is over
+12:39:47,818  INFO main MailSteps:afterClass:131 - testing page is over
+12:45:47,586  INFO main MailSteps:<init>:43 - open page https://mail.ru/ and correct login.
+12:45:47,634  INFO main MailSteps:loadMainPage:49 - I am on mail page
+12:45:54,281  INFO main LoginSteps:afterClass:74 - testing page is over
+12:45:56,384  INFO main MailSteps:afterClass:131 - testing page is over
+12:48:02,155  INFO main MailSteps:<init>:43 - open page https://mail.ru/ and correct login.
+12:48:02,202  INFO main MailSteps:loadMainPage:49 - I am on mail page
+12:48:10,989  INFO main LoginSteps:afterClass:74 - testing page is over
+12:48:13,113  INFO main MailSteps:afterClass:131 - testing page is over
+12:50:29,451  INFO main MailSteps:<init>:43 - open page https://mail.ru/ and correct login.
+12:50:29,487  INFO main MailSteps:loadMainPage:49 - I am on mail page
+12:50:43,421  INFO main LoginSteps:afterClass:74 - testing page is over
+12:50:45,787  INFO main MailSteps:afterClass:131 - testing page is over
+12:52:05,445  INFO main MailSteps:<init>:43 - open page https://mail.ru/ and correct login.
+12:52:05,577  INFO main MailSteps:loadMainPage:49 - I am on mail page
+12:52:12,459  INFO main LoginSteps:afterClass:74 - testing page is over
+12:52:14,824  INFO main MailSteps:afterClass:131 - testing page is over
+12:54:14,760  INFO main MailSteps:<init>:43 - open page https://mail.ru/ and correct login.
+12:54:14,926  INFO main MailSteps:loadMainPage:49 - I am on mail page
+12:54:20,253  INFO main LoginSteps:afterClass:74 - testing page is over
+12:54:22,354  INFO main MailSteps:afterClass:131 - testing page is over
+12:58:12,634  INFO main LoginSteps:loadMainPage:28 - Page initialization finished.
+12:58:13,307  INFO main LoginSteps:loginAsCorrectUser:35 - Login is correct
+12:58:18,448  INFO main LoginSteps:seeLogoutLink:50 - I see logout link
+12:58:20,775  INFO main LoginSteps:afterClass:75 - testing page is over
+12:58:35,201  INFO main MailSteps:<init>:43 - open page https://mail.ru/ and correct login.
+12:58:37,519  INFO main MailSteps:afterClass:131 - testing page is over
+12:58:45,662  INFO main LoginSteps:loadMainPage:28 - Page initialization finished.
+12:58:46,017  INFO main LoginSteps:loginAsUserWithCredentials:43 - I login as user with login =  Olia, pass = 555555
+12:59:30,651  INFO main MailSteps:<init>:43 - open page https://mail.ru/ and correct login.
+12:59:32,966  INFO main MailSteps:afterClass:131 - testing page is over
+12:59:40,870  INFO main LoginSteps:loadMainPage:28 - Page initialization finished.
+12:59:41,232  INFO main LoginSteps:loginAsUserWithCredentials:43 - I login as user with login =  mak---, pass = sjdjdjdj
+12:59:41,817  INFO main LoginSteps:seeErrorMessage:57 - I see error message
+12:59:44,132  INFO main LoginSteps:afterClass:75 - testing page is over
+12:59:57,498  INFO main MailSteps:<init>:43 - open page https://mail.ru/ and correct login.
+12:59:59,838  INFO main MailSteps:afterClass:131 - testing page is over
+13:00:07,622  INFO main LoginSteps:loadMainPage:28 - Page initialization finished.
+13:00:08,189  INFO main LoginSteps:loginAsCorrectUser:35 - Login is correct
+13:00:13,845  INFO main LoginSteps:seeLogoutLink:50 - I see logout link
+13:00:15,066  INFO main LoginSteps:clickLogout:62 - I click logout
+13:00:15,232  INFO main LoginSteps:seeMainPage:68 - I see main application page
+13:00:17,324  INFO main LoginSteps:afterClass:75 - testing page is over
+13:00:32,201  INFO main MailSteps:<init>:43 - open page https://mail.ru/ and correct login.
+13:00:34,546  INFO main MailSteps:afterClass:131 - testing page is over
+13:13:36,420  INFO main LoginSteps:loadMainPage:28 - Page initialization finished.
+13:13:37,006  INFO main LoginSteps:loginAsCorrectUser:35 - Login is correct
+13:14:11,097  INFO main MailSteps:<init>:44 - open page https://mail.ru/ and correct login.
+13:14:13,409  INFO main MailSteps:afterClass:132 - testing page is over
+13:15:12,748  INFO main LoginSteps:loadMainPage:28 - Page initialization finished.
+13:15:13,138  INFO main LoginSteps:loginAsCorrectUser:35 - Login is correct
+13:15:21,310  INFO main LoginSteps:seeLogoutLink:50 - I see logout link
+13:15:23,661  INFO main LoginSteps:afterClass:75 - testing page is over
+13:15:38,687  INFO main MailSteps:<init>:44 - open page https://mail.ru/ and correct login.
+13:15:41,183  INFO main MailSteps:afterClass:132 - testing page is over
+13:31:11,850  INFO main MailSteps:<init>:44 - open page https://mail.ru/ and correct login.
+13:31:12,023  INFO main MailSteps:loadMainPage:50 - I am on mail page
+13:31:21,952  INFO main LoginSteps:afterClass:75 - testing page is over
+13:31:24,292  INFO main MailSteps:afterClass:132 - testing page is over
+13:34:10,334  INFO main MailSteps:<init>:44 - open page https://mail.ru/ and correct login.
+13:34:10,851  INFO main MailSteps:loadMainPage:50 - I am on mail page
+13:34:18,412  INFO main LoginSteps:afterClass:75 - testing page is over
+13:34:20,574  INFO main MailSteps:afterClass:132 - testing page is over
+13:35:49,623  INFO main MailSteps:<init>:44 - open page https://mail.ru/ and correct login.
+13:35:49,766  INFO main MailSteps:loadMainPage:50 - I am on mail page
+13:36:00,079  INFO main LoginSteps:afterClass:75 - testing page is over
+13:36:02,304  INFO main MailSteps:afterClass:132 - testing page is over
+13:42:18,987  INFO main MailSteps:<init>:44 - open page https://mail.ru/ and correct login.
+13:42:19,110  INFO main MailSteps:loadMainPage:50 - I am on mail page
+13:42:29,317  INFO main LoginSteps:afterClass:75 - testing page is over
+13:42:31,653  INFO main MailSteps:afterClass:132 - testing page is over
+14:09:44,073  INFO main MailSteps:<init>:44 - open page https://mail.ru/ and correct login.
+14:09:44,155  INFO main MailSteps:loadMainPage:50 - I am on mail page
+14:09:52,444  INFO main LoginSteps:afterClass:75 - testing page is over
+14:09:54,221  INFO main MailSteps:afterClass:132 - testing page is over
+14:40:21,183  INFO main MailSteps:<init>:44 - open page https://mail.ru/ and correct login.
+14:40:31,532  INFO main MailSteps:loadMainPage:50 - I am on mail page
+14:40:48,384  INFO main LoginSteps:afterClass:75 - testing page is over
+14:40:50,830  INFO main MailSteps:afterClass:132 - testing page is over
+15:05:37,739  INFO main MailSteps:<init>:48 - open page https://mail.ru/ and correct login.
+15:05:37,959  INFO main MailSteps:loadMainPage:54 - I am on mail page
+15:05:45,727  INFO main LoginSteps:afterClass:75 - testing page is over
+15:05:48,524  INFO main MailSteps:afterClass:137 - testing page is over
+15:48:34,797  INFO main LoginSteps:afterClass:75 - testing page is over
+15:51:17,453  INFO main MailSteps:<init>:44 - open page https://mail.ru/ and correct login.
+15:51:17,500  INFO main MailSteps:loadMainPage:50 - I am on mail page
+15:51:18,296  INFO main MailSteps:moveLetterSpam:57 - I move letter to spam
+15:51:27,066  INFO main LoginSteps:afterClass:75 - testing page is over
+15:51:29,170  INFO main MailSteps:afterClass:132 - testing page is over
+16:00:03,355  INFO main MailSteps:<init>:44 - open page https://mail.ru/ and correct login.
+16:00:03,394  INFO main MailSteps:loadMainPage:50 - I am on mail page
+16:00:04,147  INFO main MailSteps:moveLetterSpam:57 - I move letter to spam
+16:00:12,833  INFO main LoginSteps:afterClass:75 - testing page is over
+16:00:13,107  INFO main MailSteps:afterClass:132 - testing page is over
+16:03:57,167  INFO main MailSteps:<init>:44 - open page https://mail.ru/ and correct login.
+16:03:57,270  INFO main MailSteps:loadMainPage:50 - I am on mail page
+16:03:58,106  INFO main MailSteps:moveLetterSpam:57 - I move letter to spam
+16:04:13,244  INFO main LoginSteps:afterClass:75 - testing page is over
+16:04:18,116  INFO main MailSteps:afterClass:132 - testing page is over
+21:16:01,309  INFO main LoginSteps:loadMainPage:28 - Page initialization finished.
+21:16:01,869  INFO main LoginSteps:loginAsCorrectUser:35 - Login is correct
+21:16:11,791  INFO main LoginSteps:seeLogoutLink:48 - I see logout link
+21:16:14,126  INFO main LoginSteps:afterClass:73 - testing page is over
+21:16:26,021  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+21:16:28,351  INFO main MailSteps:afterClass:130 - testing page is over
+21:16:33,160  INFO main LoginSteps:loadMainPage:28 - Page initialization finished.
+21:16:33,671  INFO main LoginSteps:loginAsUserWithCredentials:42 - I login as user with login =  Olia, pass = 555555
+21:17:31,105  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+21:17:33,429  INFO main MailSteps:afterClass:130 - testing page is over
+21:17:37,962  INFO main LoginSteps:loadMainPage:28 - Page initialization finished.
+21:17:38,476  INFO main LoginSteps:loginAsUserWithCredentials:42 - I login as user with login =  mak---, pass = sjdjdjdj
+21:17:39,059  INFO main LoginSteps:seeErrorMessage:54 - I see error message
+21:17:41,389  INFO main LoginSteps:afterClass:73 - testing page is over
+21:17:52,930  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+21:17:55,261  INFO main MailSteps:afterClass:130 - testing page is over
+21:18:00,463  INFO main LoginSteps:loadMainPage:28 - Page initialization finished.
+21:18:00,901  INFO main LoginSteps:loginAsCorrectUser:35 - Login is correct
+21:18:06,898  INFO main LoginSteps:seeLogoutLink:48 - I see logout link
+21:18:08,646  INFO main LoginSteps:clickLogout:60 - I click logout
+21:18:08,724  INFO main LoginSteps:seeMainPage:66 - I see main application page
+21:18:11,076  INFO main LoginSteps:afterClass:73 - testing page is over
+21:18:22,851  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+21:18:25,184  INFO main MailSteps:afterClass:130 - testing page is over
+22:49:41,214  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+22:49:41,688  INFO main MailSteps:loadMainPage:48 - I am on mail page
+22:49:42,494  INFO main MailSteps:moveLetterSpam:55 - I move letter to spam
+22:49:50,616  INFO main LoginSteps:afterClass:73 - testing page is over
+22:49:52,785  INFO main MailSteps:afterClass:130 - testing page is over
+22:50:05,761  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+22:50:05,790  INFO main MailSteps:loadMainPage:48 - I am on mail page
+22:50:06,141  INFO main MailSteps:openSpamFolder:61 - I open spam folder
+22:50:07,218  INFO main MailSteps:extractLetter:68 - I extract the letter in spam
+22:50:11,946  INFO main LoginSteps:afterClass:73 - testing page is over
+22:50:12,156  INFO main MailSteps:afterClass:130 - testing page is over
+22:50:24,520  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+22:50:24,557  INFO main MailSteps:loadMainPage:48 - I am on mail page
+22:50:28,545  INFO main MailSteps:sendingMessageRecipients:84 - I send message recipients
+22:50:37,102  INFO main LoginSteps:afterClass:73 - testing page is over
+22:50:39,469  INFO main MailSteps:afterClass:130 - testing page is over
+22:50:49,703  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+22:50:49,735  INFO main MailSteps:loadMainPage:48 - I am on mail page
+22:50:50,411  INFO main MailSteps:checkLetter:91 - I mark three letters with flags
+22:50:54,009  INFO main LoginSteps:afterClass:73 - testing page is over
+22:50:56,375  INFO main MailSteps:afterClass:130 - testing page is over
+22:51:06,907  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+22:51:06,940  INFO main MailSteps:loadMainPage:48 - I am on mail page
+22:51:07,994  INFO main MailSteps:uncheckLetter:97 - I unchecked letters with flags
+22:51:11,546  INFO main LoginSteps:afterClass:73 - testing page is over
+22:51:11,737  INFO main MailSteps:afterClass:130 - testing page is over
+11:04:18,941  INFO main VkApiWebService:setMethod:31 - Failed to send request
+11:04:19,558  INFO main VkApiWebService:callMethods:44 - Failed to get response
+11:04:19,574  INFO main VkApiWebService:setMethod:31 - Failed to send request
+11:04:19,759  INFO main VkApiWebService:callMethods:44 - Failed to get response
+11:04:19,759  INFO main VkApiWebService:setMethod:31 - Failed to send request
+11:04:19,913  INFO main VkApiWebService:callMethods:44 - Failed to get response
+11:06:14,161  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+11:06:14,428  INFO main MailSteps:loadMainPage:48 - I am on mail page
+11:06:15,326  INFO main MailSteps:moveLetterSpam:55 - I move letter to spam
+11:06:23,853  INFO main LoginSteps:afterClass:73 - testing page is over
+11:06:28,566  INFO main MailSteps:afterClass:130 - testing page is over
+11:06:43,942  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+11:06:44,001  INFO main MailSteps:loadMainPage:48 - I am on mail page
+11:06:45,877  INFO main MailSteps:openSpamFolder:61 - I open spam folder
+11:06:47,106  INFO main MailSteps:extractLetter:68 - I extract the letter in spam
+11:06:54,866  INFO main LoginSteps:afterClass:73 - testing page is over
+11:06:57,032  INFO main MailSteps:afterClass:130 - testing page is over
+11:07:07,637  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+11:07:07,666  INFO main MailSteps:loadMainPage:48 - I am on mail page
+11:07:11,732  INFO main MailSteps:sendingMessageRecipients:84 - I send message recipients
+11:07:15,414  INFO main LoginSteps:afterClass:73 - testing page is over
+11:07:17,754  INFO main MailSteps:afterClass:130 - testing page is over
+11:07:32,765  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+11:07:32,802  INFO main MailSteps:loadMainPage:48 - I am on mail page
+11:07:34,180  INFO main MailSteps:checkLetter:91 - I mark three letters with flags
+11:07:38,416  INFO main LoginSteps:afterClass:73 - testing page is over
+11:07:40,761  INFO main MailSteps:afterClass:130 - testing page is over
+11:07:58,469  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+11:07:58,500  INFO main MailSteps:loadMainPage:48 - I am on mail page
+11:08:02,896  INFO main LoginSteps:afterClass:73 - testing page is over
+11:08:05,023  INFO main MailSteps:afterClass:130 - testing page is over
+11:08:06,653  INFO main VkApiWebService:setMethod:31 - Failed to send request
+11:08:07,093  INFO main VkApiWebService:callMethods:44 - Failed to get response
+11:08:07,124  INFO main VkApiWebService:setMethod:31 - Failed to send request
+11:08:07,317  INFO main VkApiWebService:callMethods:44 - Failed to get response
+11:08:07,332  INFO main VkApiWebService:setMethod:31 - Failed to send request
+11:08:07,501  INFO main VkApiWebService:callMethods:44 - Failed to get response
+11:23:34,007  INFO main VkApiWebService:setMethod:31 - Failed to send request
+11:23:34,502  INFO main VkApiWebService:callMethods:44 - Failed to get response
+11:23:34,517  INFO main VkApiWebService:setMethod:31 - Failed to send request
+11:23:34,757  INFO main VkApiWebService:callMethods:44 - Failed to get response
+11:23:34,757  INFO main VkApiWebService:setMethod:31 - Failed to send request
+11:23:35,243  INFO main VkApiWebService:callMethods:44 - Failed to get response
+11:32:56,324  INFO main VkApiWebService:setMethod:31 - Failed to send request
+11:32:57,444  INFO main VkApiWebService:callMethods:44 - Failed to get response
+11:32:57,451  INFO main VkApiWebService:setMethod:31 - Failed to send request
+11:32:57,885  INFO main VkApiWebService:callMethods:44 - Failed to get response
+11:32:57,900  INFO main VkApiWebService:setMethod:31 - Failed to send request
+11:32:58,371  INFO main VkApiWebService:callMethods:44 - Failed to get response
+11:59:43,872  INFO main VkApiWebService:setMethod:31 - Failed to send request
+11:59:44,343  INFO main VkApiWebService:callMethods:44 - Failed to get response
+11:59:44,358  INFO main VkApiWebService:setMethod:31 - Failed to send request
+11:59:44,497  INFO main VkApiWebService:callMethods:44 - Failed to get response
+11:59:44,513  INFO main VkApiWebService:setMethod:31 - Failed to send request
+11:59:44,660  INFO main VkApiWebService:callMethods:44 - Failed to get response
+12:03:25,677  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+12:03:30,433  INFO main MailSteps:loadMainPage:48 - I am on mail page
+12:03:32,509  INFO main MailSteps:moveLetterSpam:55 - I move letter to spam
+12:03:37,844  INFO main LoginSteps:afterClass:73 - testing page is over
+12:03:40,192  INFO main MailSteps:afterClass:130 - testing page is over
+12:03:52,330  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+12:03:52,359  INFO main MailSteps:loadMainPage:48 - I am on mail page
+12:03:53,683  INFO main MailSteps:openSpamFolder:61 - I open spam folder
+12:03:54,570  INFO main MailSteps:extractLetter:68 - I extract the letter in spam
+12:03:59,764  INFO main LoginSteps:afterClass:73 - testing page is over
+12:04:01,891  INFO main MailSteps:afterClass:130 - testing page is over
+12:04:13,867  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+12:04:13,897  INFO main MailSteps:loadMainPage:48 - I am on mail page
+12:04:17,768  INFO main MailSteps:sendingMessageRecipients:84 - I send message recipients
+12:04:22,588  INFO main LoginSteps:afterClass:73 - testing page is over
+12:04:22,752  INFO main MailSteps:afterClass:130 - testing page is over
+12:04:37,399  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+12:04:37,571  INFO main MailSteps:loadMainPage:48 - I am on mail page
+12:04:38,239  INFO main MailSteps:checkLetter:91 - I mark three letters with flags
+12:04:42,523  INFO main LoginSteps:afterClass:73 - testing page is over
+12:04:44,640  INFO main MailSteps:afterClass:130 - testing page is over
+12:04:56,446  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+12:04:56,481  INFO main MailSteps:loadMainPage:48 - I am on mail page
+12:04:57,384  INFO main MailSteps:uncheckLetter:97 - I unchecked letters with flags
+12:05:02,490  INFO main LoginSteps:afterClass:73 - testing page is over
+12:05:04,614  INFO main MailSteps:afterClass:130 - testing page is over
+12:05:04,977  INFO main VkApiWebService:setMethod:31 - Failed to send request
+12:05:05,508  INFO main VkApiWebService:callMethods:44 - Failed to get response
+12:05:05,524  INFO main VkApiWebService:setMethod:31 - Failed to send request
+12:05:05,777  INFO main VkApiWebService:callMethods:44 - Failed to get response
+12:05:05,793  INFO main VkApiWebService:setMethod:31 - Failed to send request
+12:05:05,956  INFO main VkApiWebService:callMethods:44 - Failed to get response
+12:31:54,158  INFO main LoginSteps:loadMainPage:28 - Page initialization finished.
+12:31:54,720  INFO main LoginSteps:loginAsCorrectUser:35 - Login is correct
+12:32:04,042  INFO main LoginSteps:seeLogoutLink:48 - I see logout link
+12:32:06,358  INFO main LoginSteps:afterClass:73 - testing page is over
+12:32:24,488  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+12:32:26,605  INFO main MailSteps:afterClass:130 - testing page is over
+12:32:33,136  INFO main LoginSteps:loadMainPage:28 - Page initialization finished.
+12:32:33,604  INFO main LoginSteps:loginAsUserWithCredentials:42 - I login as user with login =  ----, pass = 555555
+12:32:34,211  INFO main LoginSteps:seeErrorMessage:54 - I see error message
+12:32:36,548  INFO main LoginSteps:afterClass:73 - testing page is over
+12:32:49,037  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+12:32:51,351  INFO main MailSteps:afterClass:130 - testing page is over
+12:32:57,619  INFO main LoginSteps:loadMainPage:28 - Page initialization finished.
+12:32:58,287  INFO main LoginSteps:loginAsCorrectUser:35 - Login is correct
+12:33:05,867  INFO main LoginSteps:seeLogoutLink:48 - I see logout link
+12:33:10,445  INFO main LoginSteps:clickLogout:60 - I click logout
+12:33:10,519  INFO main LoginSteps:seeMainPage:66 - I see main application page
+12:33:12,885  INFO main LoginSteps:afterClass:73 - testing page is over
+12:33:26,889  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+12:33:29,215  INFO main MailSteps:afterClass:130 - testing page is over
+12:33:42,575  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+12:33:42,710  INFO main MailSteps:loadMainPage:48 - I am on mail page
+12:33:46,158  INFO main MailSteps:moveLetterSpam:55 - I move letter to spam
+12:33:52,701  INFO main LoginSteps:afterClass:73 - testing page is over
+12:33:55,031  INFO main MailSteps:afterClass:130 - testing page is over
+12:34:07,561  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+12:34:07,591  INFO main MailSteps:loadMainPage:48 - I am on mail page
+12:34:09,165  INFO main MailSteps:openSpamFolder:61 - I open spam folder
+12:34:10,546  INFO main MailSteps:extractLetter:68 - I extract the letter in spam
+12:34:18,046  INFO main LoginSteps:afterClass:73 - testing page is over
+12:34:20,125  INFO main MailSteps:afterClass:130 - testing page is over
+12:35:42,426  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+12:35:42,556  INFO main MailSteps:loadMainPage:48 - I am on mail page
+12:35:46,399  INFO main MailSteps:sendingMessageRecipients:84 - I send message recipients
+12:35:51,947  INFO main LoginSteps:afterClass:73 - testing page is over
+12:35:54,325  INFO main MailSteps:afterClass:130 - testing page is over
+12:36:08,049  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+12:36:08,173  INFO main MailSteps:loadMainPage:48 - I am on mail page
+12:36:08,776  INFO main MailSteps:checkLetter:91 - I mark three letters with flags
+12:36:14,203  INFO main LoginSteps:afterClass:73 - testing page is over
+12:36:14,685  INFO main MailSteps:afterClass:130 - testing page is over
+12:36:26,269  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+12:36:26,308  INFO main MailSteps:loadMainPage:48 - I am on mail page
+12:36:34,450  INFO main LoginSteps:afterClass:73 - testing page is over
+12:36:34,756  INFO main MailSteps:afterClass:130 - testing page is over
+12:38:26,967  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+12:38:27,174  INFO main MailSteps:loadMainPage:48 - I am on mail page
+12:38:27,556  INFO main MailSteps:checkLetter:91 - I mark three letters with flags
+12:38:36,494  INFO main LoginSteps:afterClass:73 - testing page is over
+12:38:38,627  INFO main MailSteps:afterClass:130 - testing page is over
+12:38:51,387  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+12:38:51,420  INFO main MailSteps:loadMainPage:48 - I am on mail page
+12:38:51,941  INFO main MailSteps:uncheckLetter:97 - I unchecked letters with flags
+12:38:59,815  INFO main LoginSteps:afterClass:73 - testing page is over
+12:39:00,095  INFO main MailSteps:afterClass:130 - testing page is over
+13:00:45,189  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+13:00:45,228  INFO main MailSteps:loadMainPage:48 - I am on mail page
+13:00:45,660  INFO main MailSteps:checkLetter:91 - I mark three letters with flags
+13:00:49,737  INFO main LoginSteps:afterClass:73 - testing page is over
+13:00:51,845  INFO main MailSteps:afterClass:130 - testing page is over
+13:01:03,218  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+13:01:03,253  INFO main MailSteps:loadMainPage:48 - I am on mail page
+13:01:07,492  INFO main LoginSteps:afterClass:73 - testing page is over
+13:01:09,623  INFO main MailSteps:afterClass:130 - testing page is over
+13:04:29,405  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+13:04:29,573  INFO main MailSteps:loadMainPage:48 - I am on mail page
+13:04:35,462  INFO main LoginSteps:afterClass:73 - testing page is over
+13:04:35,962  INFO main MailSteps:afterClass:130 - testing page is over
+13:16:59,392  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+13:16:59,652  INFO main MailSteps:loadMainPage:48 - I am on mail page
+13:17:09,405  INFO main LoginSteps:afterClass:73 - testing page is over
+13:17:11,584  INFO main MailSteps:afterClass:130 - testing page is over
+15:37:57,306  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+15:37:57,431  INFO main MailSteps:loadMainPage:48 - I am on mail page
+15:38:08,481  INFO main LoginSteps:afterClass:73 - testing page is over
+15:38:08,909  INFO main MailSteps:afterClass:130 - testing page is over
+15:45:08,973  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+15:45:09,015  INFO main MailSteps:loadMainPage:48 - I am on mail page
+15:45:09,780  INFO main MailSteps:uncheckLetter:97 - I unchecked letters with flags
+15:45:14,036  INFO main LoginSteps:afterClass:73 - testing page is over
+15:45:16,258  INFO main MailSteps:afterClass:130 - testing page is over
+15:49:32,675  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+15:49:32,721  INFO main MailSteps:loadMainPage:48 - I am on mail page
+15:49:33,544  INFO main MailSteps:checkLetter:91 - I mark three letters with flags
+15:49:39,610  INFO main LoginSteps:afterClass:73 - testing page is over
+15:49:41,735  INFO main MailSteps:afterClass:130 - testing page is over
+15:49:54,736  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+15:49:54,779  INFO main MailSteps:loadMainPage:48 - I am on mail page
+15:49:55,415  INFO main MailSteps:uncheckLetter:97 - I unchecked letters with flags
+15:49:59,593  INFO main LoginSteps:afterClass:73 - testing page is over
+15:50:01,965  INFO main MailSteps:afterClass:130 - testing page is over
+15:54:37,883  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+15:54:37,930  INFO main MailSteps:loadMainPage:48 - I am on mail page
+15:54:38,322  INFO main MailSteps:checkLetter:91 - I mark three letters with flags
+15:54:43,775  INFO main LoginSteps:afterClass:73 - testing page is over
+15:54:46,149  INFO main MailSteps:afterClass:130 - testing page is over
+15:54:59,213  INFO main MailSteps:<init>:42 - open page https://mail.ru/ and correct login.
+15:54:59,252  INFO main MailSteps:loadMainPage:48 - I am on mail page
+15:54:59,870  INFO main MailSteps:uncheckLetter:97 - I unchecked letters with flags
+15:55:04,385  INFO main LoginSteps:afterClass:73 - testing page is over
+15:55:06,722  INFO main MailSteps:afterClass:130 - testing page is over
+15:55:07,077  INFO main VkApiWebService:setMethod:31 - Failed to send request
+15:55:07,610  INFO main VkApiWebService:callMethods:44 - Failed to get response
+15:55:07,631  INFO main VkApiWebService:setMethod:31 - Failed to send request
+15:55:07,784  INFO main VkApiWebService:callMethods:44 - Failed to get response
+15:55:07,796  INFO main VkApiWebService:setMethod:31 - Failed to send request
+15:55:07,927  INFO main VkApiWebService:callMethods:44 - Failed to get response
+16:37:16,374  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+16:37:16,550  INFO main MailSteps:loadMainPage:51 - I am on mail page
+16:37:18,083  INFO main MailSteps:checkLetter:94 - I mark three letters with flags
+16:37:29,185  INFO main LoginSteps:afterClass:80 - testing page is over
+16:37:35,508  INFO main MailSteps:afterClass:137 - testing page is over
+16:38:03,609  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+16:38:03,750  INFO main MailSteps:loadMainPage:51 - I am on mail page
+16:38:04,838  INFO main MailSteps:uncheckLetter:100 - I unchecked letters with flags
+16:38:15,872  INFO main LoginSteps:afterClass:80 - testing page is over
+16:38:22,205  INFO main MailSteps:afterClass:137 - testing page is over
+16:38:23,375  INFO main VkApiWebService:setMethod:31 - Failed to send request
+16:38:24,504  INFO main VkApiWebService:callMethods:44 - Failed to get response
+16:38:24,576  INFO main VkApiWebService:setMethod:31 - Failed to send request
+16:38:25,835  INFO main VkApiWebService:callMethods:44 - Failed to get response
+16:38:25,902  INFO main VkApiWebService:setMethod:31 - Failed to send request
+16:38:26,072  INFO main VkApiWebService:callMethods:44 - Failed to get response
+16:47:54,729  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+16:47:57,344  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+16:48:11,272  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+16:48:20,154  INFO main LoginSteps:afterClass:80 - testing page is over
+16:48:50,932  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+16:48:55,842  INFO main MailSteps:afterClass:137 - testing page is over
+16:49:04,927  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+16:49:06,302  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  ----, pass = 555555
+16:49:07,293  INFO main LoginSteps:seeErrorMessage:57 - I see error message
+16:49:11,857  INFO main LoginSteps:afterClass:80 - testing page is over
+16:49:38,416  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+16:49:44,982  INFO main MailSteps:afterClass:137 - testing page is over
+16:49:54,519  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+16:49:55,887  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+16:50:16,856  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+16:50:20,192  INFO main LoginSteps:clickLogout:63 - I click logout
+16:50:20,446  INFO main LoginSteps:seeMainPage:69 - I see main application page
+16:50:25,192  INFO main LoginSteps:afterClass:80 - testing page is over
+16:50:52,904  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+16:50:59,406  INFO main MailSteps:afterClass:137 - testing page is over
+16:51:24,437  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+16:51:24,531  INFO main MailSteps:loadMainPage:51 - I am on mail page
+16:51:25,814  INFO main MailSteps:moveLetterSpam:58 - I move letter to spam
+16:51:32,157  INFO main LoginSteps:afterClass:80 - testing page is over
+16:51:38,364  INFO main MailSteps:afterClass:137 - testing page is over
+16:52:04,145  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+16:52:04,243  INFO main MailSteps:loadMainPage:51 - I am on mail page
+16:52:05,879  INFO main MailSteps:openSpamFolder:64 - I open spam folder
+16:52:07,380  INFO main MailSteps:extractLetter:71 - I extract the letter in spam
+16:52:13,453  INFO main LoginSteps:afterClass:80 - testing page is over
+16:52:18,043  INFO main MailSteps:afterClass:137 - testing page is over
+16:52:43,560  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+16:52:43,659  INFO main MailSteps:loadMainPage:51 - I am on mail page
+16:52:54,724  INFO main MailSteps:sendingMessageRecipients:87 - I send message recipients
+16:53:01,468  INFO main LoginSteps:afterClass:80 - testing page is over
+16:53:04,390  INFO main MailSteps:afterClass:137 - testing page is over
+16:53:30,625  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+16:53:30,721  INFO main MailSteps:loadMainPage:51 - I am on mail page
+16:53:31,948  INFO main MailSteps:checkLetter:94 - I mark three letters with flags
+16:53:39,322  INFO main LoginSteps:afterClass:80 - testing page is over
+16:53:45,306  INFO main MailSteps:afterClass:137 - testing page is over
+16:54:15,733  INFO main LoginSteps:afterClass:80 - testing page is over
+16:54:44,550  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+16:54:50,753  INFO main MailSteps:afterClass:137 - testing page is over
+16:54:52,035  INFO main VkApiWebService:setMethod:31 - Failed to send request
+16:54:53,566  INFO main VkApiWebService:callMethods:44 - Failed to get response
+16:54:53,665  INFO main VkApiWebService:setMethod:31 - Failed to send request
+16:54:53,845  INFO main VkApiWebService:callMethods:44 - Failed to get response
+16:54:53,901  INFO main VkApiWebService:setMethod:31 - Failed to send request
+16:54:54,085  INFO main VkApiWebService:callMethods:44 - Failed to get response
+19:33:23,888  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+19:33:24,055  INFO main MailSteps:loadMainPage:51 - I am on mail page
+19:33:28,912  INFO main MailSteps:moveLetterSpam:58 - I move letter to spam
+19:33:34,427  INFO main LoginSteps:afterClass:80 - testing page is over
+19:33:37,860  INFO main MailSteps:afterClass:138 - testing page is over
+19:34:00,326  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+19:34:00,364  INFO main MailSteps:loadMainPage:51 - I am on mail page
+19:34:01,534  INFO main MailSteps:openSpamFolder:64 - I open spam folder
+19:34:02,693  INFO main MailSteps:extractLetter:71 - I extract the letter in spam
+19:34:08,439  INFO main LoginSteps:afterClass:80 - testing page is over
+19:34:13,206  INFO main MailSteps:afterClass:138 - testing page is over
+19:34:36,155  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+19:34:36,189  INFO main MailSteps:loadMainPage:51 - I am on mail page
+19:34:39,981  INFO main MailSteps:sendingMessageRecipients:87 - I send message recipients
+19:34:55,254  INFO main LoginSteps:afterClass:80 - testing page is over
+19:35:03,757  INFO main MailSteps:afterClass:138 - testing page is over
+19:35:41,359  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+19:35:41,528  INFO main MailSteps:loadMainPage:51 - I am on mail page
+19:35:57,677  INFO main LoginSteps:afterClass:80 - testing page is over
+19:36:07,115  INFO main MailSteps:afterClass:138 - testing page is over
+19:36:54,274  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+19:36:54,314  INFO main MailSteps:loadMainPage:51 - I am on mail page
+19:36:57,217  INFO main MailSteps:uncheckLetter:100 - I unchecked letters with flags
+19:37:15,359  INFO main LoginSteps:afterClass:80 - testing page is over
+19:37:27,355  INFO main MailSteps:afterClass:138 - testing page is over
+19:58:09,028  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+19:58:09,070  INFO main MailSteps:loadMainPage:51 - I am on mail page
+19:58:10,272  INFO main MailSteps:moveLetterSpam:58 - I move letter to spam
+19:58:14,458  INFO main LoginSteps:afterClass:80 - testing page is over
+19:58:18,044  INFO main MailSteps:afterClass:137 - testing page is over
+19:58:28,693  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+19:58:28,754  INFO main MailSteps:loadMainPage:51 - I am on mail page
+19:58:29,624  INFO main MailSteps:openSpamFolder:64 - I open spam folder
+19:58:30,401  INFO main MailSteps:extractLetter:71 - I extract the letter in spam
+19:58:34,359  INFO main LoginSteps:afterClass:80 - testing page is over
+19:58:37,728  INFO main MailSteps:afterClass:137 - testing page is over
+19:58:48,701  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+19:58:48,735  INFO main MailSteps:loadMainPage:51 - I am on mail page
+19:58:52,905  INFO main MailSteps:sendingMessageRecipients:87 - I send message recipients
+19:58:57,097  INFO main LoginSteps:afterClass:80 - testing page is over
+19:59:00,371  INFO main MailSteps:afterClass:137 - testing page is over
+19:59:11,168  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+19:59:11,203  INFO main MailSteps:loadMainPage:51 - I am on mail page
+19:59:11,928  INFO main MailSteps:checkLetter:94 - I mark three letters with flags
+19:59:16,065  INFO main LoginSteps:afterClass:80 - testing page is over
+19:59:19,600  INFO main MailSteps:afterClass:137 - testing page is over
+19:59:30,143  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+19:59:30,175  INFO main MailSteps:loadMainPage:51 - I am on mail page
+19:59:30,760  INFO main MailSteps:uncheckLetter:100 - I unchecked letters with flags
+19:59:35,228  INFO main LoginSteps:afterClass:80 - testing page is over
+19:59:38,528  INFO main MailSteps:afterClass:137 - testing page is over
+20:02:03,253  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+20:02:03,824  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+20:02:09,818  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+20:02:13,413  INFO main LoginSteps:afterClass:80 - testing page is over
+20:02:26,385  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:02:29,900  INFO main MailSteps:afterClass:137 - testing page is over
+20:02:34,795  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+20:02:35,185  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  ----, pass = 555555
+20:03:36,793  INFO main LoginSteps:afterClass:80 - testing page is over
+20:03:47,845  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:03:51,479  INFO main MailSteps:afterClass:137 - testing page is over
+20:03:56,654  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+20:03:57,286  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+20:04:02,372  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+20:04:03,707  INFO main LoginSteps:clickLogout:63 - I click logout
+20:04:03,770  INFO main LoginSteps:seeMainPage:69 - I see main application page
+20:04:06,733  INFO main LoginSteps:afterClass:80 - testing page is over
+20:06:33,120  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+20:06:33,788  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+20:06:38,572  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+20:06:42,149  INFO main LoginSteps:afterClass:80 - testing page is over
+20:06:52,327  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:06:55,919  INFO main MailSteps:afterClass:137 - testing page is over
+20:07:01,159  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+20:07:01,567  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  ----, pass = 555555
+20:08:02,872  INFO main LoginSteps:afterClass:80 - testing page is over
+20:08:13,165  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:08:16,733  INFO main MailSteps:afterClass:137 - testing page is over
+20:08:22,214  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+20:08:22,705  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+20:08:27,860  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+20:08:29,080  INFO main LoginSteps:clickLogout:63 - I click logout
+20:08:29,139  INFO main LoginSteps:seeMainPage:69 - I see main application page
+20:08:31,949  INFO main LoginSteps:afterClass:80 - testing page is over
+20:08:42,451  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:08:46,034  INFO main MailSteps:afterClass:137 - testing page is over
+20:27:49,883  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+20:27:52,336  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+20:28:08,660  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+20:28:14,504  INFO main LoginSteps:afterClass:80 - testing page is over
+20:28:41,691  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:28:47,514  INFO main MailSteps:afterClass:137 - testing page is over
+20:28:56,093  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+20:28:57,535  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  X XX XX, pass = 123345768
+20:28:57,767  INFO main LoginSteps:seeErrorMessage:57 - I see error message
+20:29:00,417  INFO main LoginSteps:afterClass:80 - testing page is over
+20:29:24,767  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:29:30,964  INFO main MailSteps:afterClass:137 - testing page is over
+20:29:41,430  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+20:29:42,813  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  -----, pass = hfgyt124jfk
+20:30:48,649  INFO main LoginSteps:afterClass:80 - testing page is over
+20:31:13,758  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:31:19,423  INFO main MailSteps:afterClass:137 - testing page is over
+20:31:28,590  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+20:31:30,356  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+20:31:51,002  INFO main LoginSteps:afterClass:80 - testing page is over
+20:32:17,477  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:32:23,273  INFO main MailSteps:afterClass:137 - testing page is over
+20:37:22,150  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+20:37:23,913  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+20:37:39,234  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+20:37:44,950  INFO main LoginSteps:afterClass:80 - testing page is over
+20:38:10,188  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:38:16,510  INFO main MailSteps:afterClass:137 - testing page is over
+20:38:26,414  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+20:38:27,995  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+20:38:54,523  INFO main LoginSteps:afterClass:80 - testing page is over
+20:39:20,569  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:39:26,366  INFO main MailSteps:afterClass:137 - testing page is over
+20:45:52,861  INFO main VkApiWebService:setMethod:31 - Failed to send request
+20:45:53,912  INFO main VkApiWebService:callMethods:44 - Failed to get response
+20:45:53,992  INFO main VkApiWebService:setMethod:31 - Failed to send request
+20:45:54,197  INFO main VkApiWebService:callMethods:44 - Failed to get response
+20:45:54,291  INFO main VkApiWebService:setMethod:31 - Failed to send request
+20:45:54,480  INFO main VkApiWebService:callMethods:44 - Failed to get response
+20:46:46,064  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+20:46:47,441  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+20:47:01,402  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+20:47:07,856  INFO main LoginSteps:afterClass:80 - testing page is over
+20:47:32,939  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:47:38,670  INFO main MailSteps:afterClass:137 - testing page is over
+20:47:46,871  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+20:47:48,255  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+20:48:03,467  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+20:48:06,287  INFO main LoginSteps:clickLogout:63 - I click logout
+20:48:07,057  INFO main LoginSteps:seeMainPage:69 - I see main application page
+20:48:11,148  INFO main LoginSteps:afterClass:80 - testing page is over
+20:48:38,667  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:48:44,540  INFO main MailSteps:afterClass:137 - testing page is over
+20:57:29,816  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:57:29,874  INFO main MailSteps:loadMainPage:51 - I am on mail page
+20:57:30,812  INFO main MailSteps:moveLetterSpam:58 - I move letter to spam
+20:57:34,912  INFO main MailSteps:afterClass:137 - testing page is over
+20:57:40,443  INFO main LoginSteps:afterClass:80 - testing page is over
+20:57:52,387  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:57:52,544  INFO main MailSteps:loadMainPage:51 - I am on mail page
+20:57:53,475  INFO main MailSteps:openSpamFolder:64 - I open spam folder
+20:57:54,387  INFO main MailSteps:extractLetter:71 - I extract the letter in spam
+20:57:57,999  INFO main MailSteps:afterClass:137 - testing page is over
+20:58:02,004  INFO main LoginSteps:afterClass:80 - testing page is over
+20:58:13,208  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:58:13,241  INFO main MailSteps:loadMainPage:51 - I am on mail page
+20:58:17,053  INFO main MailSteps:sendingMessageRecipients:87 - I send message recipients
+20:58:20,215  INFO main MailSteps:afterClass:137 - testing page is over
+20:58:24,244  INFO main LoginSteps:afterClass:80 - testing page is over
+20:58:35,292  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:58:35,322  INFO main MailSteps:loadMainPage:51 - I am on mail page
+20:58:35,953  INFO main MailSteps:checkLetter:94 - I mark three letters with flags
+20:58:39,494  INFO main MailSteps:afterClass:137 - testing page is over
+20:58:43,469  INFO main LoginSteps:afterClass:80 - testing page is over
+20:58:54,724  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+20:58:54,757  INFO main MailSteps:loadMainPage:51 - I am on mail page
+20:58:55,282  INFO main MailSteps:uncheckLetter:100 - I unchecked letters with flags
+20:58:58,860  INFO main MailSteps:afterClass:137 - testing page is over
+20:59:02,856  INFO main LoginSteps:afterClass:80 - testing page is over
+20:59:03,178  INFO main VkApiWebService:setMethod:31 - Failed to send request
+20:59:03,755  INFO main VkApiWebService:callMethods:44 - Failed to get response
+20:59:03,779  INFO main VkApiWebService:setMethod:31 - Failed to send request
+20:59:03,972  INFO main VkApiWebService:callMethods:44 - Failed to get response
+20:59:03,986  INFO main VkApiWebService:setMethod:31 - Failed to send request
+20:59:04,243  INFO main VkApiWebService:callMethods:44 - Failed to get response
+21:04:54,609  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:04:55,255  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+21:05:03,012  INFO main LoginSteps:afterClass:80 - testing page is over
+21:05:13,827  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:05:17,407  INFO main MailSteps:afterClass:137 - testing page is over
+21:05:22,073  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:05:22,651  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+21:05:27,651  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+21:05:29,610  INFO main LoginSteps:clickLogout:63 - I click logout
+21:05:29,678  INFO main LoginSteps:seeMainPage:69 - I see main application page
+21:05:32,659  INFO main LoginSteps:afterClass:80 - testing page is over
+21:05:43,658  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:05:47,259  INFO main MailSteps:afterClass:137 - testing page is over
+21:08:53,223  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:08:53,911  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+21:08:59,262  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+21:09:02,841  INFO main LoginSteps:afterClass:80 - testing page is over
+21:09:13,801  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:09:17,393  INFO main MailSteps:afterClass:137 - testing page is over
+21:09:23,264  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:09:23,690  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  X XX XX, pass = 123345768
+21:09:24,290  INFO main LoginSteps:seeErrorMessage:57 - I see error message
+21:09:27,249  INFO main LoginSteps:afterClass:80 - testing page is over
+21:09:39,055  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:09:42,725  INFO main MailSteps:afterClass:137 - testing page is over
+21:09:47,893  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:09:48,324  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  -----, pass = hfgyt124jfk
+21:11:00,107  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:11:03,731  INFO main MailSteps:afterClass:137 - testing page is over
+21:11:11,960  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:11:12,402  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+21:11:18,784  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+21:11:21,261  INFO main LoginSteps:clickLogout:63 - I click logout
+21:11:21,340  INFO main LoginSteps:seeMainPage:69 - I see main application page
+21:11:24,586  INFO main LoginSteps:afterClass:80 - testing page is over
+21:11:36,471  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:11:40,038  INFO main MailSteps:afterClass:137 - testing page is over
+21:13:49,768  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:13:50,289  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+21:13:56,297  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+21:13:59,936  INFO main LoginSteps:afterClass:80 - testing page is over
+21:14:11,019  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:14:14,587  INFO main MailSteps:afterClass:137 - testing page is over
+21:14:19,706  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:14:20,105  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  X XX XX, pass = 123345768
+21:14:23,140  INFO main LoginSteps:afterClass:80 - testing page is over
+21:14:36,712  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:14:40,397  INFO main MailSteps:afterClass:137 - testing page is over
+21:14:47,172  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:14:47,607  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  -----, pass = hfgyt124jfk
+21:14:51,892  INFO main LoginSteps:afterClass:80 - testing page is over
+21:15:07,509  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:15:11,027  INFO main MailSteps:afterClass:137 - testing page is over
+21:15:16,744  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:15:17,243  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+21:15:26,317  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+21:15:29,180  INFO main LoginSteps:clickLogout:63 - I click logout
+21:15:29,263  INFO main LoginSteps:seeMainPage:69 - I see main application page
+21:15:32,255  INFO main LoginSteps:afterClass:80 - testing page is over
+21:15:49,938  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:15:53,956  INFO main MailSteps:afterClass:137 - testing page is over
+21:43:59,330  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:43:59,824  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+21:44:05,802  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+21:44:09,555  INFO main LoginSteps:afterClass:80 - testing page is over
+21:44:21,446  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:44:25,114  INFO main MailSteps:afterClass:137 - testing page is over
+21:44:30,772  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:44:31,219  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  X XX XX, pass = 123345768
+21:44:32,194  INFO main LoginSteps:afterClass:80 - testing page is over
+21:44:43,869  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:44:47,674  INFO main MailSteps:afterClass:137 - testing page is over
+21:44:52,759  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:44:53,132  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  -----, pass = hfgyt124
+21:44:56,756  INFO main LoginSteps:afterClass:80 - testing page is over
+21:45:07,514  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:45:11,158  INFO main MailSteps:afterClass:137 - testing page is over
+21:45:16,361  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:45:16,989  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+21:45:22,420  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+21:45:25,954  INFO main LoginSteps:clickLogout:63 - I click logout
+21:45:26,027  INFO main LoginSteps:seeMainPage:69 - I see main application page
+21:45:29,056  INFO main LoginSteps:afterClass:80 - testing page is over
+21:45:40,055  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:45:43,733  INFO main MailSteps:afterClass:137 - testing page is over
+21:57:47,188  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:57:47,856  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+21:57:53,660  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+21:57:57,580  INFO main LoginSteps:afterClass:80 - testing page is over
+21:58:08,487  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:58:12,234  INFO main MailSteps:afterClass:137 - testing page is over
+21:58:18,193  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:58:18,547  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  X XX XX, pass = 123345768
+21:58:19,358  INFO main LoginSteps:afterClass:80 - testing page is over
+21:58:30,149  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:58:33,842  INFO main MailSteps:afterClass:137 - testing page is over
+21:58:39,843  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:58:40,291  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  -----, pass = hfgyt124
+21:58:44,351  INFO main LoginSteps:afterClass:80 - testing page is over
+21:59:03,704  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:59:07,278  INFO main MailSteps:afterClass:137 - testing page is over
+21:59:14,693  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+21:59:15,124  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+21:59:21,058  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+21:59:24,113  INFO main LoginSteps:clickLogout:63 - I click logout
+21:59:24,192  INFO main LoginSteps:seeMainPage:69 - I see main application page
+21:59:26,840  INFO main LoginSteps:afterClass:80 - testing page is over
+21:59:38,059  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+21:59:41,813  INFO main MailSteps:afterClass:137 - testing page is over
+22:01:06,274  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+22:01:06,761  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+22:01:12,483  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+22:01:16,542  INFO main LoginSteps:afterClass:80 - testing page is over
+22:01:27,617  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+22:01:31,441  INFO main MailSteps:afterClass:137 - testing page is over
+22:01:36,721  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+22:01:37,176  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  X XX XX, pass = 123345768
+22:01:37,792  INFO main LoginSteps:seeErrorMessage:57 - I see error message
+22:01:38,616  INFO main LoginSteps:afterClass:80 - testing page is over
+22:01:48,895  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+22:01:52,594  INFO main MailSteps:afterClass:137 - testing page is over
+22:01:57,941  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+22:01:58,324  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  -----, pass = hfgyt124
+22:03:00,123  INFO main LoginSteps:afterClass:80 - testing page is over
+22:03:10,788  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+22:03:14,395  INFO main MailSteps:afterClass:137 - testing page is over
+22:03:20,330  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+22:03:20,711  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+22:03:26,593  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+22:03:30,549  INFO main LoginSteps:clickLogout:63 - I click logout
+22:03:30,667  INFO main LoginSteps:seeMainPage:69 - I see main application page
+22:03:33,660  INFO main LoginSteps:afterClass:80 - testing page is over
+22:03:44,746  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+22:03:48,353  INFO main MailSteps:afterClass:137 - testing page is over
+22:04:32,260  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+22:04:32,740  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+22:04:37,734  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+22:04:41,296  INFO main LoginSteps:afterClass:80 - testing page is over
+22:04:52,319  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+22:04:55,879  INFO main MailSteps:afterClass:137 - testing page is over
+22:05:00,937  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+22:05:01,324  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  X XX XX, pass = 123345768
+22:05:01,928  INFO main LoginSteps:seeErrorMessage:57 - I see error message
+22:05:04,809  INFO main LoginSteps:afterClass:80 - testing page is over
+22:05:17,181  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+22:05:20,750  INFO main MailSteps:afterClass:137 - testing page is over
+22:05:25,761  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+22:05:26,235  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+22:05:31,340  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+22:05:33,636  INFO main LoginSteps:clickLogout:63 - I click logout
+22:05:33,711  INFO main LoginSteps:seeMainPage:69 - I see main application page
+22:05:36,693  INFO main LoginSteps:afterClass:80 - testing page is over
+22:05:47,350  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+22:05:50,895  INFO main MailSteps:afterClass:137 - testing page is over
+22:09:41,433  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+22:09:41,960  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+22:09:47,900  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+22:10:14,969  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+22:10:18,474  INFO main MailSteps:afterClass:137 - testing page is over
+22:10:21,675  INFO main LoginSteps:afterClass:80 - testing page is over
+22:10:27,370  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+22:10:27,772  INFO main LoginSteps:loginAsUserWithCredentials:45 - I login as user with login =  X XX XX, pass = 123345768
+22:10:28,366  INFO main LoginSteps:seeErrorMessage:57 - I see error message
+22:10:39,077  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+22:10:42,666  INFO main MailSteps:afterClass:137 - testing page is over
+22:10:45,653  INFO main LoginSteps:afterClass:80 - testing page is over
+22:10:50,774  INFO main LoginSteps:loadMainPage:31 - Page initialization finished.
+22:10:51,414  INFO main LoginSteps:loginAsCorrectUser:38 - Login is correct
+22:10:56,796  INFO main LoginSteps:seeLogoutLink:51 - I see logout link
+22:10:58,696  INFO main LoginSteps:clickLogout:63 - I click logout
+22:10:58,783  INFO main LoginSteps:seeMainPage:69 - I see main application page
+22:11:10,285  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+22:11:13,659  INFO main MailSteps:afterClass:137 - testing page is over
+22:11:16,615  INFO main LoginSteps:afterClass:80 - testing page is over
+22:11:28,569  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+22:11:28,954  INFO main MailSteps:loadMainPage:51 - I am on mail page
+22:11:29,889  INFO main MailSteps:moveLetterSpam:58 - I move letter to spam
+22:11:33,450  INFO main MailSteps:afterClass:137 - testing page is over
+22:11:37,382  INFO main LoginSteps:afterClass:80 - testing page is over
+22:11:48,114  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+22:11:48,257  INFO main MailSteps:loadMainPage:51 - I am on mail page
+22:11:49,109  INFO main MailSteps:openSpamFolder:64 - I open spam folder
+22:11:49,979  INFO main MailSteps:extractLetter:71 - I extract the letter in spam
+22:11:53,546  INFO main MailSteps:afterClass:137 - testing page is over
+22:11:57,543  INFO main LoginSteps:afterClass:80 - testing page is over
+22:12:08,574  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+22:12:08,612  INFO main MailSteps:loadMainPage:51 - I am on mail page
+22:12:12,535  INFO main MailSteps:sendingMessageRecipients:87 - I send message recipients
+22:12:15,763  INFO main MailSteps:afterClass:137 - testing page is over
+22:12:19,697  INFO main LoginSteps:afterClass:80 - testing page is over
+22:12:30,000  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+22:12:30,037  INFO main MailSteps:loadMainPage:51 - I am on mail page
+22:12:30,687  INFO main MailSteps:checkLetter:94 - I mark three letters with flags
+22:12:34,232  INFO main MailSteps:afterClass:137 - testing page is over
+22:12:38,166  INFO main LoginSteps:afterClass:80 - testing page is over
+22:12:48,932  INFO main MailSteps:<init>:45 - open page https://mail.ru/ and correct login.
+22:12:48,965  INFO main MailSteps:loadMainPage:51 - I am on mail page
+22:12:49,500  INFO main MailSteps:uncheckLetter:100 - I unchecked letters with flags
+22:12:53,060  INFO main MailSteps:afterClass:137 - testing page is over
+22:12:56,956  INFO main LoginSteps:afterClass:80 - testing page is over
+22:12:57,329  INFO main VkApiWebService:setMethod:31 - Failed to send request
+22:12:57,915  INFO main VkApiWebService:callMethods:44 - Failed to get response
+22:12:57,939  INFO main VkApiWebService:setMethod:31 - Failed to send request
+22:12:58,106  INFO main VkApiWebService:callMethods:44 - Failed to get response
+22:12:58,118  INFO main VkApiWebService:setMethod:31 - Failed to send request
+22:12:58,265  INFO main VkApiWebService:callMethods:44 - Failed to get response

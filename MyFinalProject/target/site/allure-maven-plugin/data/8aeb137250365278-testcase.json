@@ -1,0 +1,47 @@
+{
+  "uid" : "8aeb137250365278",
+  "name" : "Given I am on main application page",
+  "title" : "Given I am on main application page",
+  "time" : {
+    "start" : 1553973050775,
+    "stop" : 1553973050775,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "76a8bdce258f14d3",
+    "name" : "Scenario: Test positive logout",
+    "title" : "Scenario: test positive logout"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "20040@LAPTOP-OSSTP811.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test positive logout"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-OSSTP811"
+  } ],
+  "parameters" : [ ]
+}

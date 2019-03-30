@@ -1,0 +1,47 @@
+{
+  "uid" : "9c1964664986b47b",
+  "name" : "When I login as user with \"X XX XX\" and \"123345768\"",
+  "title" : "When I login as user with \"X XX XX\" and \"123345768\"",
+  "time" : {
+    "start" : 1553973027773,
+    "stop" : 1553973027773,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "aa0b9d1655e99d8",
+    "name" : "| X XX XX | 123345768 |",
+    "title" : "| X XX XX | 123345768 |"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "20040@LAPTOP-OSSTP811.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "| X XX XX | 123345768 |"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-OSSTP811"
+  } ],
+  "parameters" : [ ]
+}

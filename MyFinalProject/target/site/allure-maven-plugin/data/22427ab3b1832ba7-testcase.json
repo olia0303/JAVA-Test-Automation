@@ -1,0 +1,47 @@
+{
+  "uid" : "22427ab3b1832ba7",
+  "name" : "When I post on wall",
+  "title" : "When I post on wall",
+  "time" : {
+    "start" : 1553973177932,
+    "stop" : 1553973177932,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "f3a7ac3a23bf84c8",
+    "name" : "Scenario: Test positive send post",
+    "title" : "Scenario: test positive send post"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test positive send post"
+  }, {
+    "name" : "thread",
+    "value" : "20040@LAPTOP-OSSTP811.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-OSSTP811"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1553973178114" stop="1553973178750" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Test positive delete post</name>
+    <test-cases>
+        <test-case start="1553973178265" stop="1553973178266" status="passed">
+            <name>When I delete post from the wall</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553973178265" stop="1553973178266" status="passed">
+            <name>When I delete post from the wall</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553973178266" stop="1553973178266" status="passed">
+            <name>Then I check changes after adapter</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

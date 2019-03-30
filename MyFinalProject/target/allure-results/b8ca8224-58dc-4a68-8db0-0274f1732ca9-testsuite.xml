@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1553973158168" stop="1553973178271" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Test unchecked letters with flags</name>
+    <test-cases>
+        <test-case start="1553973168968" stop="1553973168968" status="passed">
+            <name>Given I am on mail page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553973168968" stop="1553973168968" status="passed">
+            <name>Given I am on mail page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553973169501" stop="1553973169501" status="passed">
+            <name>When I unchecked letters with flags</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553973169517" stop="1553973169517" status="passed">
+            <name>Then I not see mark flag on letters</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LAPTOP-OSSTP811"/>
+                <label name="thread" value="20040@LAPTOP-OSSTP811.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

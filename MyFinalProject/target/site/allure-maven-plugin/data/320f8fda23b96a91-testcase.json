@@ -1,0 +1,47 @@
+{
+  "uid" : "320f8fda23b96a91",
+  "name" : "When I extract the letter in spam",
+  "title" : "When I extract the letter in spam",
+  "time" : {
+    "start" : 1553973109980,
+    "stop" : 1553973109980,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "d7a5ec9145537ded",
+    "name" : "Scenario: Test extract letter to spam",
+    "title" : "Scenario: test extract letter to spam"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "20040@LAPTOP-OSSTP811.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Test extract letter to spam"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-OSSTP811"
+  } ],
+  "parameters" : [ ]
+}

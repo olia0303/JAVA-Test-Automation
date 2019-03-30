@@ -1,0 +1,5 @@
+vkApiWebServiceTest\VkSteps.class
+steps\LoginSteps.class
+steps\TestRunner.class
+steps\MailSteps.class
+vkApiWebServiceTest\TestRunnerForVkService.class
